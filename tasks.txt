@@ -1,4 +1,0 @@
-admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
-admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
-Carly, Team building event, Organise team building event for staff members., 25/03/23, 27 March 2023, No   
-Kelly, Team building venue and Refreshments, organise the event venue and refreshments., 25/03/23, 28 March 2023, No  
